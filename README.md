@@ -34,9 +34,6 @@
   </style>
 </head>
 <body>
-  <!-- ==================================================== -->
-  <!-- 1. AQUÍ PUEDES CAMBIAR EL TEXTO VISIBLE EN PANTALLA -->
-  <!-- ==================================================== -->
   <div id="info">
     <h1>✨ Eres mi galaxia ✨</h1>
     <p>Arrastra la pantalla para explorar en 360°</p>
